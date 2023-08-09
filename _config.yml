@@ -9,9 +9,9 @@ version: 2
 name: Fasih Zulfiqar
 title: Data Analyst
 email: fasih178@gmail.com
-phone: 92 327 0778599
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+phone: +92-327 0778599
+website: https://pakonomist.wordpress.com/
+website_title: Pakonomist Blog
 
 # Dark Mode (true/false/never)
 darkmode: false
