@@ -40,8 +40,8 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: About Me
+about_profile_image: https://media.licdn.com/dms/image/D4E03AQGpx43JyXJQ1Q/profile-displayphoto-shrink_400_400/0/1689577305057?e=1697068800&v=beta&t=Saw9AyMCIeNlcXv8GzizJ1D5RmGZsiVg_YkoRE8tnSI
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
