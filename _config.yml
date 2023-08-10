@@ -44,11 +44,8 @@ about_title: About Me
 about_profile_image: https://media.licdn.com/dms/image/D4E03AQGpx43JyXJQ1Q/profile-displayphoto-shrink_400_400/0/1689577305057?e=1697068800&v=beta&t=Saw9AyMCIeNlcXv8GzizJ1D5RmGZsiVg_YkoRE8tnSI
 about_content: | # this will include new lines to allow paragraphs
   I’m a client success manager at Trademor x Alibaba, a writing consultant at the Academic Writing Center at IBA, and a Teacher Assistant. I'm doing my Bachelor's of Science in Econ/Math at IBA, Karachi, with a 3.91 GPA. I'm also the CFO of the Animal Welfare Society at IBA.
-
-Having self-studied for my A-levels and secondary education due to financial constraints, I'm also a proud autodidact. A distinction holder in A-level Economics in Pakistan and was awarded a scholarship by Professor Tyler Cowen, Mercatus Center, to pursue Economics. 
-
-I ruminate on all sorts of weird things at my blog Pakonomist. I've also done multiple projects of model optimization on R and Excel. Aside from academics and work, I invest and powerlift. Also a big football fan and was part of a club, GSA, for 6 years. Super into Philosophy, particularly Stoicism and Absurdism. And dogs. I love dogs.
-.
+  Having self-studied for my A-levels and secondary education due to financial constraints, I'm also a proud autodidact. A distinction holder in A-level Economics in Pakistan and was awarded a scholarship by Professor Tyler Cowen, Mercatus Center, to pursue Economics. 
+  I ruminate on all sorts of weird things at my blog Pakonomist. I've also done multiple projects of model optimization on R and Excel. Aside from academics and work, I invest and powerlift. Also a big football fan and was part of a club, GSA, for 6 years. Super into Philosophy, particularly Stoicism and Absurdism. And dogs. I love dogs.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
