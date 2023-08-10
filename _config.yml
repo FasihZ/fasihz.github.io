@@ -67,9 +67,9 @@ content:
           - title:  Drive page for project
             icon: fab fa-github
             url: https://docs.google.com/spreadsheets/d/1dwfE__DIvo18K4DoyFqAmE7F7Ed8tBZW5t8TtQ_y2gA/edit?usp=sharing
-        <img src="./images/Dashboard.png" alt="Dashboard">
+        image: <img src="./images/Dashboard.png" alt="Dashboard">
         quote: >
-        Performed analysis of demand and inventory for Lipton while interning there. 
+         Performed analysis of demand and inventory for Lipton while interning there. 
         description: | # this will include new lines to allow paragraphs
           Made an interactive and live dashboard on Power Bi and Excel that can show how many of Lipton's different SKUs are available at each of their 8 DCs and analyze where we are under or over stocked. Made it simple and easy to read. 
   - title: Experience
