@@ -57,7 +57,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Inventory & Sales Dashboard
-        project_image: ![Model](https://github.com/FasihZ/fasihz.github.io/blob/master/images/Dashboard.png)
+        project_image: ![alt text](https://github.com/FasihZ/fasihz.github.io/blob/master/images/Dashboard.png?raw=true)
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
