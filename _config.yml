@@ -49,9 +49,6 @@ about_content: | # this will include new lines to allow paragraphs
     
   I ruminate on all sorts of weird things at my blog Pakonomist. I've also done multiple projects of model optimization on R and Excel. Aside from academics and work, I invest and powerlift. Also a big football fan and was part of a club, GSA, for 6 years. Super into Philosophy, particularly Stoicism and Absurdism. And dogs. I love dogs.
 
-    - <a href="google.com">Links</a>
-    - Images ![alt text](https://scontent.fkhi30-1.fna.fbcdn.net/v/t1.6435-9/183237194_10159684542780101_2483775828654700861_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=107&ccb=1-7&_nc_sid=da1649&_nc_ohc=I-n3SeF-_fkAX9FzGtN&_nc_ht=scontent.fkhi30-1.fna&oh=00_AfDFjLcqdeAVT47HdMPU7J3u2jeGJqHRnPRN527LGNFVmw&oe=64FBDB0E)
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,6 +99,7 @@ content:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+   - Images ![alt text](https://scontent.fkhi30-1.fna.fbcdn.net/v/t1.6435-9/183237194_10159684542780101_2483775828654700861_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=107&ccb=1-7&_nc_sid=da1649&_nc_ohc=I-n3SeF-_fkAX9FzGtN&_nc_ht=scontent.fkhi30-1.fna&oh=00_AfDFjLcqdeAVT47HdMPU7J3u2jeGJqHRnPRN527LGNFVmw&oe=64FBDB0E)
 
 # Footer
 footer_show_references: true
