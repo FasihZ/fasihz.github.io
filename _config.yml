@@ -68,9 +68,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Made an interactive and live dashboard on Power Bi and Excel that can show how many of Lipton's different SKUs are available at each of their 8 DCs and analyze where we are under or over stocked. Made it simple and easy to read. 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Made an interactive and live dashboard on Power Bi and Excel that can show how many of Lipton's different SKUs are available at each of their 8 DCs and analyze where we are under or over stocked. Made it simple and easy to read. 
   - title: Experience
     layout: list
     content:
