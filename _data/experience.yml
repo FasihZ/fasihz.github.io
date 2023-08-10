@@ -1,0 +1,83 @@
+- layout: left
+  company: Livi
+  link: https://www.livi.co.uk/
+  job_title: Software Engineer
+  dates: Oct 2021 - Present
+  quote: >
+    Building a new SaaS product
+  description: | # this will include new lines to allow paragraphs
+    Working in a team to build a new SaaS product to expand the company across the world has a lot of challenges. I started this job as my first experience as a fullstack developer. 
+    I have been enjoying the hard work and to be part of the creation of a completely new product in the market. 
+    I’m having the opportunity to work with reactj, reactive programming, such as, rx java and vertx. Also, 
+    it’s our responsibility to deploy and set up all the AWS infrastructure to put the services running in our test and production environment. 
+    In a very fast environment, I have had the opportunity to help with new ideas and to implement new ways of working in the team. 
+    It’s very exciting to work for a health care company that helps people around the world.
+
+    <i class="fas fa-toolbox"></i> Tools: Intellij, VisualVM, Visual Studio, Postman, Git, AWS, Cypress, Miro, Figma, Jira
+
+    <i class="fas fa-code"></i> Code: Java 11, Spring, MySql, ReactJ, RxJava, Vertx, Typescript 
+
+- layout: right
+  company: Gentrack
+  link: https://www.gentrack.com/
+  job_title: Software Engineer - Intermediate
+  dates: Oct 2020 - Oct 2021
+  quote: >
+    Working for the utility market in the United Kingdom
+  description: | # this will include new lines to allow paragraphs
+    I have started this new **challenge outside of my country** and in a new field, the utilities market.
+    I'm part of a team responsible for developing new features for the application core and maintaining it stable. Also, it's our responsibility to do releases and support customer tickets.
+    This has been a good experience because of the direct contact with the customer and the opportunity to implement some improvements around the team,
+    such as testing practices, delivery process and scrum processes.
+
+    <i class="fas fa-toolbox"></i> Tools: Intellij, Jenkins, VisualVM, Visual Studio, Postman, Git
+
+    <i class="fas fa-code"></i> Code: Java 8, Spring, C#, SQL Server
+
+- layout: left
+  company: Blip.pt part of Flutter (Paddy Power Betfair)
+  link: blip.pt
+  job_title: Associate Backend Developer
+  dates: Jan 2018 - Oct 2020
+  quote: >
+    Helped to improve and create one of the largest betting companies in the world!
+  description: | # this will include new lines to allow paragraphs
+    Working daily to have the system healthy and a backend without any major issues is a ***big challenge*** when you work ***in a company that receives millions of transactions per day***.
+    Besides of developing new features or fixing some bugs, part of my routine is to verify reports, check the performance graphics, write documentation and release our services to production.
+
+    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
+
+    <i class="fas fa-code"></i> Code: Java 8, Scala (basic), Apache Kafka, Spring
+
+- layout: right
+  company: CRITICAL Software
+  link: criticalsoftware.com/en
+  job_title: Software Developer (Contrator for Blip.pt)
+  dates: Jul 2016 - Dec 2017
+  quote: >
+    Worked at Blip.pt as a contractor.
+  description: | # this will include new lines to allow paragraphs
+    This experience was my first part of Blip experience. I did the same tasks as I described above...the only difference is that I was part of a project to ***migrate a monolithic architecture
+    software to a microservice architecture***. It was a very good experience that involved migrating code and restructuring a huge pipeline with a lot of dependencies in small pieces.
+
+    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
+
+    <i class="fas fa-code"></i> Code: Java 8, Scala (basic), Apache Kafka, Spring
+
+- layout: left
+  company: CEiiA // Engineering and Innovation Centre
+  link: ceiia.com
+  job_title: Software Developer - Backend
+  dates: Jul 2015 - Jun 2016
+  quote: >
+    Be part of a project to allow us to have a better mobility experience around cities
+  description: | # this will include new lines to allow paragraphs
+    It was a very interesting project! The main focus of the project was to build a system that allowed to collect metrics from the electric cars and with those metrics obtain some conclusions about CO2 release
+    and the impact for the world. I worked as a backend developer in this project, it was the first time I had an experience with microservices and the ***opportunity to introduce the spring
+    framework into the backend department*** (the team was really small and we had space to try new technologies or tools around the company).
+
+    <i class="fas fa-toolbox"></i> Tools: Jenkins, Tomcat, VisualVM, SVN
+
+    <i class="fas fa-code"></i> Code: Java 7, Oracle Database, Spring Framework
+
+
