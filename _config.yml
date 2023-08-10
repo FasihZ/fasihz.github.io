@@ -57,7 +57,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Inventory & Sales Dashboard
-        image: (https://i.ibb.co/vH34w0Y/Dashboard.png)
+        <a href="https://ibb.co/FK54xRV"><img src="https://i.ibb.co/6mH0njB/Dashboard.png" alt="Dashboard" border="0"></a>
         link_text: Link Text
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
