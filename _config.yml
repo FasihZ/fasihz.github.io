@@ -10,12 +10,15 @@ name: Fasih Zulfiqar
 title: Data Analyst
 email: fasih178@gmail.com
 
-google_analytics: "G-ZZPS24VL92"
+# Dark Mode (true/false/never)
+darkmode: false
 
 # Social links
 twitter_username: ZulfiqarFasih
 github_username:  FasihZ
+instagram_username: fasihz
 linkedin_username: fasihz
+youtube_username: fasihzulfiqar2015
 
 additional_links:
 - title: Blog
