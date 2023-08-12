@@ -39,9 +39,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   <i class="fas fa-dumbbell"></i> <mark>Why Powerlifting?</mark> Helps me push myself to new limits. When you have 250 lbs on your back and you squat down, there is always a chance you will fail. Your knees might strain, or worse, break. Conquering that fear is why I love powerlifting.
 
-# Experience Section
-experience_title: Last Experiences
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -65,6 +62,9 @@ content:
           Lipton, Summer of 2023 
         description: | # this will include new lines to allow paragraphs
           Made an interactive and live dashboard on Power Bi and Excel that can show how many of Lipton's different SKUs are available at each of their 8 DCs and analyze where we are under or over stocked. Made it simple and easy to read. 
+
+# Experience Section
+experience_title: Last Experiences
 
 # Education Section
 # educaton_title: Education
