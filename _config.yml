@@ -69,12 +69,8 @@ experience_title: Last Experiences
 # Projects Section
 projects_title: Personal Projects
 
-# Education Section
-# educaton_title: Education
-
-# More Section
-more_title: My Goals of 2020
-more_content: | # this will include new lines to allow paragraphs
+Education Section
+educaton_title: Education
 
 # Footer
 footer_show_references: false
