@@ -9,7 +9,7 @@
 
 - layout: left
   name: Lipton (Teas & Infusions)
-  dates: June 2023 - August 2023
+  dates: July 2023 - August 2023 (7 Weeks)
   qualification: Demand & Inventory Analyst
   quote: >
     The Supply Chain (Planning) and Data department of Lipton Teas and Infusions.
@@ -17,3 +17,12 @@
     I worked on coming up with two live, interactive dashboards in ***Excel and Power Bi***.   
     ***FG and Sales Dashboard***: Analyzing and providing an overview, with multiple KPIs such as DOH, of how many finished goods are stocked and average sold at each DC.  
     ***MPS and Supply Dashboard***: Showing how much stock of each raw material and packing material we have on weekly basis and what's the predicted demand and utilization of each machine and plant. 
+
+- layout: right
+  name: Engro (Eximp FZE)
+  dates: May 2023 - July 2023
+  qualification: Marketing Analyst
+  quote: >
+    Eximp FZE is the international subsidiary of Engro headquartered in Dubai.
+  description: | # this will include new lines to allow paragraphs
+    I work with the North American team of Alibaba.com and spearhead the services department at Trademor. Through Zoom/Teams meetings, conferences, and emails, I'm basically acting as the CSM to 139+ US business owners who have started their e-commerce business on Alibaba.com.
