@@ -31,10 +31,8 @@ about_profile_image: https://media.licdn.com/dms/image/D4E03AQGpx43JyXJQ1Q/profi
 about_content: | # this will include new lines to allow paragraphs
   I’m a ***Client Success Manager at Trademor x Alibaba***, a student, and an aspiring data analyst.   
 
-  Having ***self-studied*** for my A-levels and secondary education due to financial constraints, I'm a proud autodidact. A ***distinction holder in A-level Economics*** in Pakistan and was awarded a scholarship by Professor Tyler Cowen, Mercatus Center, to pursue Economics.
-    
-  I ruminate on all sorts of weird things at my blog Pakonomist. I've also done multiple projects of model optimization on R and Excel. 
-  
+  Having ***self-studied*** for my secondary education due to financial constraints, I'm a proud autodidact. A ***distinction holder in A-level Economics*** in Pakistan and was awarded a scholarship by Professor Tyler Cowen, Mercatus Center, to pursue Economics.
+      
   Aside from academics and work, I'm a big football fan and was part of a club, GSA, for 6 years. Super into travelling and Philosophy, particularly Stoicism and Absurdism. And dogs. I love dogs.
 
   <i class="fas fa-plane"></i> <mark>Why travelling?</mark> I love to travel because it allows you to be in cultures much different than yours. Plus I love tasting new foods :D
@@ -48,16 +46,13 @@ about_content: | # this will include new lines to allow paragraphs
   The CFO of the ***Animal Welfare Society*** at IBA, Karachi.  
 
 # Experience Section
-experience_title: Last Experiences
-
-# Experience Section
-experience_title: Education
+experience_title: Projects
 
 # Projects Section
 projects_title: Personal Projects
 
 #Education Section
-#educaton_title: Education
+#educaton_title: Professional Experience
 
 # Footer
 footer_show_references: false
