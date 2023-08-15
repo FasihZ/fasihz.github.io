@@ -14,6 +14,6 @@
   quote: >
     The Supply Chain (Planning) and Data department of Lipton Teas and Infusions.
   description: | # this will include new lines to allow paragraphs
-    I worked on coming up with two live, interactive dashboards in ***Excel and Power Bi***. 
-    ***FG and Sales Dashboard***: Analyzing and providing an overview, with multiple KPIs and measures such as DOH, of how many finished goods are stocked at each DC and what are the average sales of those SKUs at each DC.
-    ***MPS and Supply Dashboard***: A dashboard for the master planning schedule, showing how much stock of each raw material and packing material is present and what's the predicted demand and utilization of each machine and plant which is responsible for producing a particular SKU. 
+    I worked on coming up with two live, interactive dashboards in ***Excel and Power Bi***.   
+    ***FG and Sales Dashboard***: Analyzing and providing an overview, with multiple KPIs such as DOH, of how many finished goods are stocked and average sold at each DC.  
+    ***MPS and Supply Dashboard***: Showing how much stock of each raw material and packing material we have on weekly basis and what's the predicted demand and utilization of each machine and plant. 
