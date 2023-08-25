@@ -4,7 +4,7 @@
   job_title: Lipton 
   dates: July 2023 - Aug 2023
   quote: >
-    Building an interactive and automated dashboard for each SKU's Days on Hand in each of Lipton's DCs.
+    <mark>Building an interactive and automated dashboard for each SKU's Days on Hand in each of Lipton's DCs<mark>
   description: | # this will include new lines to allow paragraphs
     Built a live dashboard that shows a complete inventory anaysis of each of Lipton's SKUs.  
     
