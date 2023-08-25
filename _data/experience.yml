@@ -1,14 +1,17 @@
 - layout: left
   company: FG Inventory (DOH) Dashboard
   link: https://ibb.co/gP7k20Y
-  job_title: Lipton Teas & Infusions
-  dates: July 2023 - Sept 2023
+  job_title: Lipton 
+  dates: July 2023 - Aug 2023
   quote: >
     Building an interactive and automated dashboard for each SKU's Days on Hand in each of Lipton's DCs.
   description: | # this will include new lines to allow paragraphs
-    Built a live dashboard that shows a complete inventory anaysis of each of Lipton's SKUs. 
-    Worked with the Lipton team during my internship to consolidate data and deliver a dashboard that can be utilized even after my internship ends. 
-    Used Excel and Macros (VBA) to automate the dashboard. 
+    Built a live dashboard that shows a complete inventory anaysis of each of Lipton's SKUs.  
+    
+    Worked with the Lipton team during my internship to consolidate data and deliver a dashboard that can be utilized even after my internship ends.  
+    
+    Used Excel and Macros (VBA) to automate the dashboard.  
+    
     The dashboard displays the inventory (tons), sales (tons) and the DOH of each SKU in each DC. 
 
     <i class="fas fa-toolbox"></i> Tools: Excel, SAP, Macros
@@ -16,21 +19,24 @@
     <i class="fas fa-code"></i> Code: VBA, MySql 
 
 - layout: right
-  company: Gentrack
-  link: https://www.gentrack.com/
-  job_title: Software Engineer - Intermediate
-  dates: Oct 2020 - Oct 2021
+  company: Supply Planning Dashboard & MPS
+  link: https://ibb.co/XYF7Zt7
+  job_title: Lipton
+  dates: Aug 2023 - Sept 2023
   quote: >
-    Working for the utility market in the United Kingdom
+    Displays current and future (predicted) Machines' Utilization in each factory of Lipton 
   description: | # this will include new lines to allow paragraphs
-    I have started this new **challenge outside of my country** and in a new field, the utilities market.
-    I'm part of a team responsible for developing new features for the application core and maintaining it stable. Also, it's our responsibility to do releases and support customer tickets.
-    This has been a good experience because of the direct contact with the customer and the opportunity to implement some improvements around the team,
-    such as testing practices, delivery process and scrum processes.
+    An Excel-based dashboard that is fully interactive and automated with Macros enabled (via VBA).  
+    
+    As part of the Supply Chain dept, I came up with a Master Planning Schedule (MPS) that shows opening stock, closing stock, target inventory, predicted demand, and orders for each SKU.  
+    
+    The MPS also shows the capacity and shift plan of each machine that is producing each of Lipton's SKUs in all weeks YTG.  
+    
+    The Supply Planning Dashboard provides a one-shot view of the capacity utilization of each of the 11 machines. It also shows future utilizations so that the supply planner can see choking points for each machine and shift some production earlier.  
 
-    <i class="fas fa-toolbox"></i> Tools: Intellij, Jenkins, VisualVM, Visual Studio, Postman, Git
+    <i class="fas fa-toolbox"></i> Tools: Power Bi, R, Excel, SAP, Macros
 
-    <i class="fas fa-code"></i> Code: Java 8, Spring, C#, SQL Server
+    <i class="fas fa-code"></i> Code: R, VBA, SQL Server
 
 - layout: left
   company: Blip.pt part of Flutter (Paddy Power Betfair)
