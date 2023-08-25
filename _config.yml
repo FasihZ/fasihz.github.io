@@ -53,6 +53,81 @@ experience_title: Projects
 # Projects Section
 projects_title: Personal Projects
 
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left #top-middle
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title:  Trailer (un)loading autonomous forklift
+        link: https://youtu.be/EcnskOHdL_k
+        link_text: Video
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Autonomous forklift that moves pallets from staging lanes and places them directly into the trailer and viceversa.
+        #description: | # this will include new lines to allow paragraphs
+        #  Description about the work on/with the project
+      - layout: left #top-middle
+        #border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Industrial omnidirectional heavy load carrying robot
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Omnidirectionat robot that moves large paper rolls from point A to point B.
+        #description: | # this will include new lines to allow paragraphs
+        #  Description about the work on/with the project
+      - layout: left
+        #border: weak
+        title:  Industrial self-driving forklift
+        link: https://youtu.be/QHXtqM1hxqA
+        link_text: Video
+        #github: 
+        quote: >
+          Autonomous outrigger type forklift.
+        #description: | # this will include new lines to allow paragraphs
+      - layout: left
+        #border: weak
+        title:  GideonBot
+        link: https://www.youtube.com/watch?v=dPC0Tclm1Rs
+        link_text: Video
+        #github: 
+        quote: >
+          GideonBot solves industrial problems with autonomous mobile robots powered by AI.
+        #description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title:  Household robot assistant
+        link: https://www.youtube.com/watch?v=H4-wtJz4IEg
+        link_text: Video
+        additional_links:
+          - title:  Github
+            icon: fab fa-github
+            url: https://github.com/aeolusbot
+        quote: >
+          From delivering food to picking up clutter and locating lost items, our robots are always ready to help.
+      - layout: left
+        title: Continuous casting of long strands of metal
+        link: https://www.youtube.com/watch?v=3nW9LyWV72g
+        link_text: Video
+        quote: >
+          Continuous casting is the process where a metal is heated until it liquefies.
+        #description: | # this will include new lines to allow paragraphs
+        #  Software for the control of manufacturing processes        
+
 #Professional Experience Section
 educaton_title: Professional Experience
 
