@@ -6,13 +6,13 @@
   quote: >
     <mark>Building an interactive and automated dashboard for each SKU's Days on Hand in each of Lipton's DCs<mark>
   description: | # this will include new lines to allow paragraphs
-    Built a live dashboard that shows a complete inventory anaysis of each of Lipton's SKUs.  
+    Built a ***live dashboard*** that shows a complete inventory anaysis of each of Lipton's SKUs.  
     
     Worked with the Lipton team during my internship to consolidate data and deliver a dashboard that can be utilized even after my internship ends.  
     
-    Used Excel and Macros (VBA) to automate the dashboard.  
+    Used ***Excel and Macros (VBA)*** to automate the dashboard.  
     
-    The dashboard displays the inventory (tons), sales (tons) and the DOH of each SKU in each DC. 
+    The dashboard displays the inventory (tons), sales (tons) and the ***DOH of each SKU*** in each DC. 
 
     <i class="fas fa-toolbox"></i> Tools: Excel, SAP, Macros
 
@@ -24,64 +24,73 @@
   job_title: Lipton
   dates: Aug 2023 - Sept 2023
   quote: >
-    Displays current and future (predicted) Machines' Utilization in each factory of Lipton 
+    <mark>Displays current and future (predicted) Machines' Utilization in each factory of Lipton<mark>
   description: | # this will include new lines to allow paragraphs
     An Excel-based dashboard that is fully interactive and automated with Macros enabled (via VBA).  
     
     As part of the Supply Chain dept, I came up with a Master Planning Schedule (MPS) that shows opening stock, closing stock, target inventory, predicted demand, and orders for each SKU.  
     
-    The MPS also shows the capacity and shift plan of each machine that is producing each of Lipton's SKUs in all weeks YTG.  
+    The ***MPS*** also shows the capacity and shift plan of each machine that is producing each of Lipton's SKUs in all weeks YTG.  
     
-    The Supply Planning Dashboard provides a one-shot view of the capacity utilization of each of the 11 machines. It also shows future utilizations so that the supply planner can see choking points for each machine and shift some production earlier.  
+    The Supply Planning Dashboard provides a ***one-shot view of the capacity utilization of each of the 11 machines***. It also shows future utilizations so that the supply planner can see ***choking points*** for each machine and shift some production earlier.  
 
     <i class="fas fa-toolbox"></i> Tools: Power Bi, R, Excel, SAP, Macros
 
-    <i class="fas fa-code"></i> Code: R, VBA, SQL Server
+    <i class="fas fa-code"></i> Code: DAX, VBA, Power Query 
 
 - layout: left
-  company: Blip.pt part of Flutter (Paddy Power Betfair)
-  link: blip.pt
-  job_title: Associate Backend Developer
-  dates: Jan 2018 - Oct 2020
+  company: Predicting Berlin's and London's AirBnb Prices
+  link: https://drive.google.com/file/d/1jY_Bfv2_IY3kPzEzRaUoZcniEQRcCcxp/view?usp=sharing
+  https://drive.google.com/file/d/1WqhFkHjraZNnOZWmlwjQWglkZ08H2M_d/view?usp=sharing
+  job_title: AAMD Course at IBA
+  dates: April 2023 - May 2023
   quote: >
-    Helped to improve and create one of the largest betting companies in the world!
+    <mark>Ran a complete data science pipiline to most accurately predict Airbnb listings' prices in London and Berlin<mark>
   description: | # this will include new lines to allow paragraphs
-    Working daily to have the system healthy and a backend without any major issues is a ***big challenge*** when you work ***in a company that receives millions of transactions per day***.
-    Besides of developing new features or fixing some bugs, part of my routine is to verify reports, check the performance graphics, write documentation and release our services to production.
+    With a dataset of current Airbnb prices, I split the dataset into train and test sets and ***performed EDA on R***, coming up with many illumanating visualizations.  
+    
+    Ran different types of regressions, such as ***MLR, Logistic Regression, Step-wise regression***, to predict Airbnb listings' prices.  
 
-    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
+    Tweaked parameters of the model to further increase R^2, decrease Mape, and improve predictive KPIs of the model.  
+    
+    Did Classification too (via RParts on R) and then ***regularization (L1, Lass)*** to further improve model and lastly evaluated more KPIs such as ***Precision, Recall, and F1-Score***. 
+    
+    <i class="fas fa-toolbox"></i> Tools: R, Excel
 
-    <i class="fas fa-code"></i> Code: Java 8, Scala (basic), Apache Kafka, Spring
+    <i class="fas fa-code"></i> Code: R Programming
 
 - layout: right
-  company: CRITICAL Software
-  link: criticalsoftware.com/en
-  job_title: Software Developer (Contrator for Blip.pt)
-  dates: Jul 2016 - Dec 2017
+  company: Polypropylene and PP Compounds Market Analysis
+  link: Confidential
+  job_title: Engro - Eximp FZE
+  dates: May 2023
   quote: >
-    Worked at Blip.pt as a contractor.
+    <mark>Analyzed the PP Compounds Market for Engro so that they could decide whether or not, and where, to set up their first PP Compound plant.<mark>
   description: | # this will include new lines to allow paragraphs
-    This experience was my first part of Blip experience. I did the same tasks as I described above...the only difference is that I was part of a project to ***migrate a monolithic architecture
-    software to a microservice architecture***. It was a very good experience that involved migrating code and restructuring a huge pipeline with a lot of dependencies in small pieces.
+    With a dataset of all the ***Polypropylene (PP) Compounds*** importers and exporters in Pakistan, I had to analyze the dataset to see who are the biggest players in the market and their market positioning.  
+    
+    Did EDA on the PP compounds market and the companies involved and some research to find out the ***estimated cost for setting up a plant***.  
 
-    <i class="fas fa-toolbox"></i> Tools: Sensu, Grafana, Jenkins, SonarQube, Docker, Gatling, VisualVM, Postman, Git
+    After doing the analysis, I came up with a few options for where we could set up our ***first PP Compound plant***.
 
-    <i class="fas fa-code"></i> Code: Java 8, Scala (basic), Apache Kafka, Spring
+    <i class="fas fa-toolbox"></i> Tools: R, SQL, Excel
+
+    <i class="fas fa-code"></i> Code: Python, R
 
 - layout: left
-  company: CEiiA // Engineering and Innovation Centre
-  link: ceiia.com
-  job_title: Software Developer - Backend
-  dates: Jul 2015 - Jun 2016
+  company: Analysis of Borrowing Grades
+  link: docs.google.com/document/d/1LB0LrGgEbQUf4uXrOgoWi5MPeVmjn9MB/edit?usp=sharing&ouid=104879919570848828284&rtpof=true&sd=true
+  job_title: DMV Course at IBA
+  dates: Oct 2022 - Nov 2022
   quote: >
-    Be part of a project to allow us to have a better mobility experience around cities
+    <mark>Data Exploration and Forming Hypothesis for what determines an individua's borrowing grade<mark>
   description: | # this will include new lines to allow paragraphs
-    It was a very interesting project! The main focus of the project was to build a system that allowed to collect metrics from the electric cars and with those metrics obtain some conclusions about CO2 release
-    and the impact for the world. I worked as a backend developer in this project, it was the first time I had an experience with microservices and the ***opportunity to introduce the spring
-    framework into the backend department*** (the team was really small and we had space to try new technologies or tools around the company).
+    Did data exploration and visualization on Excel and Power Bi to discover what are the most important factors affecting an individual's borrowing grade in the US.  
 
-    <i class="fas fa-toolbox"></i> Tools: Jenkins, Tomcat, VisualVM, SVN
+    Came up with a proper report and 3 hypothesis for what affects borrowing grades. 
 
-    <i class="fas fa-code"></i> Code: Java 7, Oracle Database, Spring Framework
+    <i class="fas fa-toolbox"></i> Tools: Power Bi, Excel
+
+    <i class="fas fa-code"></i> Code: VBA, DAX
 
 
